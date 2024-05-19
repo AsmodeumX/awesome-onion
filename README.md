@@ -1,6 +1,11 @@
 # Awesome Onion
 Cool onion links
 
+### News
+|Website|Language|Description|
+|:------|:-------|:----------|
+|[BBC](https://www.bbcnewsd73hkzno2ini43t4gblxvycyac5aw4gnv7t2rccijh7745uqd.onion/)|EN|The BBC|
+
 ### Operating systems
 |Website|Language|Description|
 |:------|:-------|:----------|
