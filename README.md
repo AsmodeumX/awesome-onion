@@ -15,6 +15,11 @@ Cool onion links
 |[QubesOS](http://qubesosfasa4zl44o4tws22di6kepyzfeqv3tg4e3ztknltfxqrymdad.onion/)|EN|"A reasonably secure operating system"|
 |[Whonix](http://www.dds6qkxpwdeubwucdiaord2xgbbeyds25rbsgr73tbfpqpt4a6vjwsyd.onion/)|EN|Website of the Whonix operating system|
 
+### Search engines
+|Website|Language|Description|
+|:------|:-------|:----------|
+|[DuckDuckGo](https://duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion/)|EN|Clearnet only|
+
 ### Crypto
 |Website|Language|Description|
 |:------|:-------|:----------|
