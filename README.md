@@ -18,6 +18,7 @@ Cool onion links
 ### Search engines
 |Website|Language|Description|
 |:------|:-------|:----------|
+|[Ahmia](http://juhanurmihxlp77nkq76byazcldy2hlmovfu2epvl5ankdibsot4csyd.onion/)|EN|Search engine|
 |[DuckDuckGo](https://duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion/)|EN|Clearnet only|
 
 ### Crypto
