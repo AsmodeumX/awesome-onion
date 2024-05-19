@@ -25,3 +25,8 @@ Cool onion links
 |Website|Language|Description|
 |:------|:-------|:----------|
 |[Wasabi Wallet](http://wasabiukrxmkdgve5kynjztuovbg43uxcbcxn6y2okcrsg7gb6jdmbad.onion/)|EN|Open-source, non-custodial Bitcoin Wallet for desktop|
+
+### Other
+|Website|Language|Description|
+|:------|:-------|:----------|
+|[CIA](http://ciadotgov4sjwlzihbbgxnqg3xiyrg7so2r2o3lt5wz5ypk4sxyjstad.onion/)|EN|The official CIA|
