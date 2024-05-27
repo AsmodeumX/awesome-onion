@@ -15,6 +15,11 @@ Cool onion links
 |[QubesOS](http://qubesosfasa4zl44o4tws22di6kepyzfeqv3tg4e3ztknltfxqrymdad.onion/)|EN|"A reasonably secure operating system"|
 |[Whonix](http://www.dds6qkxpwdeubwucdiaord2xgbbeyds25rbsgr73tbfpqpt4a6vjwsyd.onion/)|EN|Website of the Whonix operating system|
 
+### Personal pages
+|Website|Language|Description|
+|:------|:-------|:----------|
+|[Neco.lol](http://q7cn7lnjwrgvq7iwmo2u7z5b62lktg7h2wyvev4pfb3x7lf55fopojqd.onion/)|EN|"This website hosts various services, particularly ones that revolve around privacy & security."|
+
 ### Search engines
 |Website|Language|Description|
 |:------|:-------|:----------|
