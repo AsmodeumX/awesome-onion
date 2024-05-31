@@ -37,3 +37,11 @@ Cool onion links
 |Website|Language|Description|
 |:------|:-------|:----------|
 |[CIA](http://ciadotgov4sjwlzihbbgxnqg3xiyrg7so2r2o3lt5wz5ypk4sxyjstad.onion/)|EN|The official CIA|
+
+### Web Hosting
+|Website|Language|Description|
+|:------|:-------|:----------|
+|[FlokiNET](https://vf7vsrexwb7e4j65idp4hq4eqlvjiwrnvi3jnb4st7oteer5tzgvhaqd.onion/)|EN|" FlokiNET was established in 2012 - Iceland, to provide a safe harbor for freedom of speech, free press and whistleblower projects.
+
+We provide autonomous, incorruptible and flexible solutions, optimized to help you spread your ideas! "
+|
