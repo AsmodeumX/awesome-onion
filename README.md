@@ -42,4 +42,4 @@ Cool onion links
 |Website|Language|Description|
 |:------|:-------|:----------|
 |[FlokiNET](https://vf7vsrexwb7e4j65idp4hq4eqlvjiwrnvi3jnb4st7oteer5tzgvhaqd.onion/)|EN|" FlokiNET was established in 2012 - Iceland, to provide a safe harbor for freedom of speech, free press and whistleblower projects."|
-|
+|[Mynymbox](http://mynymefqtjhkxg67sj5orcsu75ofhvnyk7tpuowfe4jyhfvqsfsbhzyd.onion)|EN|"Anonymous hosting and internet services, dedicated to safeguarding the privacy and security"|
