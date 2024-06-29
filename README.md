@@ -27,6 +27,7 @@ Cool onion links
 |[Ahmia](http://juhanurmihxlp77nkq76byazcldy2hlmovfu2epvl5ankdibsot4csyd.onion/)|EN|Search engine|
 |[DuckDuckGo](https://duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion/)|EN|Clearnet only|
 |[Startpage](http://startpagel6srwcjlue4zgq3zevrujfaow726kjytqbbjyrswwmjzcqd.onion)|EN|Clearnet only|
+|[Stealth](http://stealth53py46pyoxvtappchzplxiadqlrhxxelojegtkimuft3e2cid.onion/)|EN|Search engine|
 
 ### Crypto
 |Website|Language|Description|
